@@ -1,0 +1,23 @@
+.left-side__main {
+  width: 40%;
+  background-image: url("/assets/images/container.jpg");
+  background-position-x: 510px;
+  background-position-y: 410px;
+  background-size: 300%;
+  border-radius: 20px 0 0 20px;
+  color: #fff;
+  padding: 2em;
+  & h1 {
+    text-transform: uppercase;
+    font-weight: 100;
+    font-family: monospace;
+    margin: 1em 0;
+  }
+  & p {
+    & a {
+      color: #fff;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+}

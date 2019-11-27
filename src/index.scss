@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("/assets/images/body.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+}
