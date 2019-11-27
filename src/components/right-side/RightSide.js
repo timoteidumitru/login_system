@@ -51,7 +51,6 @@ const useStyles = makeStyles(theme => ({
     }
   },
   alternativeSignIn: {
-    boxShadow: "none",
     fontSize: 15,
     padding: "6px 12px",
     lineHeight: 1.5,
