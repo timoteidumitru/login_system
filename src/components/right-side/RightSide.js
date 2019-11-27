@@ -112,6 +112,7 @@ export default function LeftSide() {
           defaultValue=" "
           className={classes.textField}
           variant="outlined"
+          type="password"
         />
         <button type="submit" className={classes.rightSideButton}>
           Register
