@@ -2,7 +2,7 @@
   "name": "test-response",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shokadinueu.github.io/login_system",
+  "homepage": "https://shokadinueu.github.io/login_system/",
   "dependencies": {
     "@material-ui/core": "^4.7.0",
     "gh-pages": "^2.1.1",
