@@ -1,5 +1,5 @@
 import React from "react";
-import "./right-side.css";
+import "./right-side.scss";
 
 export default function LeftSide() {
   return <div>This is the left side!</div>;

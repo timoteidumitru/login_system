@@ -1,5 +1,5 @@
 import React from "react";
-import "./container.css";
+import "./container.scss";
 
 export default function Container() {
   return <div>This is the container</div>;
